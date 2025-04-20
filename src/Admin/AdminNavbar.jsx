@@ -36,7 +36,7 @@ export default function AdminNavbar() {
     localStorage.removeItem("role");
     localStorage.removeItem("userdata");
     navigate("/login");
-    window.location.reload();
+    
   };
 
   // Nav link items data
