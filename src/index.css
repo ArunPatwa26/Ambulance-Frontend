@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.google-places-autocomplete__input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 16px;
+  }
